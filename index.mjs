@@ -1,6 +1,5 @@
 import fs from "fs";
 import fetch from "node-fetch";
-import { execSync } from "child_process";
 import { parse, transforms } from "json2csv";
 
 fetchEnglandTrafficReport();
@@ -15,7 +14,6 @@ function fetchEnglandTrafficReport() {
       const csv = parse(data, {
         transforms: transforms.flatten({ objects: true, arrays: true }),
       });
-      execSync(`touch ${destFile}`);
       fs.writeFileSync(destFile, csv);
       console.log(`Data for ${currentDate} written successfully`);
     });
