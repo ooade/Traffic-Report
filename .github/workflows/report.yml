@@ -1,8 +1,8 @@
-name: Run traffic report cron
+name: Run traffic report
 
 on:
   schedule:
-    - cron: '15 * * * *'
+    - cron: '*/5 * * * *' #Run every 5 minutes, for now
 
 jobs:
   run_script:
