@@ -1,7 +1,7 @@
-import fetch from "node-fetch";
-import { parse, transforms } from "json2csv";
 import fs from "fs";
+import fetch from "node-fetch";
 import { execSync } from "child_process";
+import { parse, transforms } from "json2csv";
 
 fetchEnglandTrafficReport();
 function fetchEnglandTrafficReport() {

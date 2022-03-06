@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.mjs",
   "scripts": {
-    "start": "node index.mjs"
+    "start": "node index.mjs",
+    "commit-file": "node push-to-github.mjs"
   },
   "keywords": [],
   "author": "",
