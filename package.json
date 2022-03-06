@@ -1,0 +1,16 @@
+{
+  "name": "cron-traffic-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^5.0.7",
+    "node-fetch": "^3.2.1"
+  }
+}

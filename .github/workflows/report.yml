@@ -1,0 +1,16 @@
+name: Run traffic report cron
+
+on:
+  schedule:
+    - cron: '15 * * * *'
+
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 14
+      - run: yarn install --frozen-lockfile
+      - run: yarn start
