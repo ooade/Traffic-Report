@@ -11,10 +11,21 @@ function fetchEnglandTrafficReport() {
     .then((res) => res.json())
     .then((data) => {
       const destFile = `data/${currentDate.toGMTString()}.csv`;
-      const csv = parse(data, {
-        transforms: transforms.flatten({ objects: true, arrays: true }),
+
+      // Convert JSON to Array and set the key in _key
+      const arr = Object.keys(data).reduce((acc, dataKey) => {
+        const obj = { ...data[dataKey] };
+        obj._key = dataKey;
+        acc.push(obj);
+        return acc;
+      }, []);
+
+      const csv = parse(arr, {
+        transforms: [transforms.flatten({ arrays: true, objects: true })],
       });
+
       fs.writeFileSync(destFile, csv);
+
       console.log(`Data for ${currentDate} written successfully`);
     });
 }
