@@ -2,7 +2,10 @@ name: Run traffic report
 
 on:
   schedule:
-    - cron: '*/5 * * * *' #Run every 5 minutes, for now
+    - cron: '* 2 * * *' # Run at 2AM
+    - cron: '* 9 * * *' # Run at 9AM
+    - cron: '* 13 * * *' # Run at 1PM
+    - cron: '* 21 * * *' # Run at 9PM
 
 jobs:
   run_script:
