@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
-import { exec } from "child_process";
+import { execSync } from "child_process";
 import { parse, transforms } from "json2csv";
 
 fetchEnglandTrafficReport();
@@ -25,10 +25,10 @@ function fetchEnglandTrafficReport() {
         },
         {}
       );
-      const fileDir = `data/${year}/${month}/${day}`;
+      const destDir = `data/${year}/${month}/${day}`;
 
-      // Setup the directory
-      mkdir(fileDir);
+      // Setup the directory, as required
+      execSync(`mkdir -p ${destDir}`);
 
       // Convert JSON to Array and set the key in _key
       const arr = Object.keys(data).reduce((acc, dataKey) => {
@@ -38,28 +38,14 @@ function fetchEnglandTrafficReport() {
         return acc;
       }, []);
 
+      // Parse Arr as CSV
       const csv = parse(arr, {
         transforms: [transforms.flatten({ arrays: true, objects: true })],
       });
 
       const destFile = `${hour}:${minute} ${dayPeriod}.csv`;
-      fs.writeFileSync(path.join(fileDir, destFile), csv);
+      fs.writeFileSync(path.join(destDir, destFile), csv);
 
       console.log(`Data for ${currentDate} written successfully`);
     });
-}
-
-function mkdir(dir) {
-  const arr = dir.split("/");
-  let prevPath = "";
-
-  for (let path of arr) {
-    exec(`mkdir ${prevPath + path}`, (err) => {
-      // Skip showing file exists error =D
-      if (err && !err.message.includes("File exists")) {
-        console.error(err.message);
-      }
-    });
-    prevPath += `${path}/`;
-  }
 }
