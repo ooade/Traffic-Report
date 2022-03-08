@@ -12,40 +12,49 @@ function fetchEnglandTrafficReport() {
   )
     .then((res) => res.json())
     .then((data) => {
-      const dateInParts = Intl.DateTimeFormat("en-GB", {
-        dateStyle: "full",
-        timeStyle: "long",
-        hour12: true,
-      }).formatToParts(currentDate);
+      const { year, day, month, hour, minute, dayPeriod } =
+        getDateInParts(currentDate);
 
-      const { year, day, month, hour, minute, dayPeriod } = dateInParts.reduce(
-        (acc, part) => {
-          acc[part.type] = part.value;
-          return acc;
-        },
-        {}
-      );
       const destDir = `data/${year}/${month}/${day}`;
 
       // Setup the directory, as required
       execSync(`mkdir -p ${destDir}`);
 
-      // Convert JSON to Array and set the key in _key
-      const arr = Object.keys(data).reduce((acc, dataKey) => {
-        const obj = { ...data[dataKey] };
-        obj._key = dataKey;
-        acc.push(obj);
-        return acc;
-      }, []);
-
-      // Parse Arr as CSV
-      const csv = parse(arr, {
-        transforms: [transforms.flatten({ arrays: true, objects: true })],
+      createCSVAndWriteFile({
+        data: obj2Arr(data),
+        dest: path.join(destDir, `${hour}:${minute} ${dayPeriod}.csv`),
       });
-
-      const destFile = `${hour}:${minute} ${dayPeriod}.csv`;
-      fs.writeFileSync(path.join(destDir, destFile), csv);
 
       console.log(`Data for ${currentDate} written successfully`);
     });
+}
+
+function getDateInParts(date) {
+  const dateInParts = Intl.DateTimeFormat("en-GB", {
+    dateStyle: "full",
+    timeStyle: "long",
+    hour12: true,
+  }).formatToParts(date);
+
+  return dateInParts.reduce((acc, part) => {
+    acc[part.type] = part.value;
+    return acc;
+  }, {});
+}
+
+function obj2Arr(data) {
+  return Object.keys(data).reduce((acc, dataKey) => {
+    const obj = { ...data[dataKey] };
+    obj._key = dataKey;
+    acc.push(obj);
+    return acc;
+  }, []);
+}
+
+function createCSVAndWriteFile({ data, dest }) {
+  const csv = parse(data, {
+    transforms: [transforms.flatten({ arrays: true, objects: true })],
+  });
+
+  fs.writeFileSync(dest, csv);
 }
