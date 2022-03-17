@@ -15,7 +15,7 @@ function fetchEnglandTrafficReport() {
       const { year, day, month, hour, minute, dayPeriod } =
         getDateInParts(currentDate);
 
-      const destDir = `data/${year}/${month}/${day}`;
+      const destDir = `data/${year}/${month}/${day.padStart(2, 0)}`;
 
       // Setup the directory, as required
       execSync(`mkdir -p ${destDir}`);
