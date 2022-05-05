@@ -4,18 +4,22 @@ import fetch from "node-fetch";
 import { execSync } from "child_process";
 import { parse, transforms } from "json2csv";
 
-fetchEnglandTrafficReport();
-function fetchEnglandTrafficReport() {
+const eventsAPI = "https://www.trafficengland.com/api/events/getByJunctionInterval?road=M1&fromId=202531&toId=201010&events=CONGESTION,INCIDENT,ROADWORKS,MAJOR_ORGANISED_EVENTS,ABNORMAL_LOADS&includeUnconfirmedRoadworks=true";
+const networkAPI = "https://www.trafficengland.com/api/network/getJunctionSections?roadName=M1";
+
+fetchEnglandTrafficReport(networkAPI, 'data');
+fetchEnglandTrafficReport(eventsAPI, 'eventsData');
+function fetchEnglandTrafficReport(APIUrl, destFolder) {
   const currentDate = new Date();
   fetch(
-    `https://www.trafficengland.com/api/network/getJunctionSections?roadName=M1&_=${+currentDate}`
+    `${APIUrl}&_=${+currentDate}`
   )
     .then((res) => res.json())
     .then((data) => {
       const { year, day, month, hour, minute, dayPeriod } =
         getDateInParts(currentDate);
 
-      const destDir = `data/${year}/${month}/${day.padStart(2, 0)}`;
+      const destDir = `${destFolder}/${year}/${month}/${day.padStart(2, 0)}`;
 
       // Setup the directory, as required
       execSync(`mkdir -p ${destDir}`);
