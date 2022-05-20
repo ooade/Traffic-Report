@@ -1,0 +1,500 @@
+"0.id","0.description","0.awp","0.gdp","0.cause","0.severity","0.completed","0.confirmed","0.roadName","0.lastUpdatedTimestamp","0.current","0.latitude","0.longitude","0.teEventType","0.delay","0.returnToFreeFlow","0.creationDate","0.overallEndDate","0.overallStartDate","0.periods.0.id","0.periods.0.eventId","0.periods.0.startPeriod","0.periods.0.endPeriod","0.offSRN","0.eventReference","0.displayM6TollPromo","0.laneClosureDescription","0.fullClosure","0.idProvidedBySource","0.linkIds.0","0.linkIds.1","0.linkIds.2","0.additionalDescription","0.formatDesc.0","0.formatDesc.1","0.formatDesc.2","0.formatDesc.3","0.formatDesc.4","0.gdpFormatted.0","0.gdpFormatted.1","0.gdpFormatted.2","0.gdpFormatted.3","0.gdpFormatted.4","0.awpFormatted.0","0.junction_ds_desc","0.junction_us_desc","1.id","1.description","1.awp","1.gdp","1.cause","1.severity","1.completed","1.confirmed","1.roadName","1.lastUpdatedTimestamp","1.current","1.latitude","1.longitude","1.teEventType","1.delay","1.returnToFreeFlow","1.creationDate","1.overallEndDate","1.overallStartDate","1.periods.0.id","1.periods.0.eventId","1.periods.0.startPeriod","1.periods.0.endPeriod","1.periods.1.id","1.periods.1.eventId","1.periods.1.startPeriod","1.periods.1.endPeriod","1.periods.2.id","1.periods.2.eventId","1.periods.2.startPeriod","1.periods.2.endPeriod","1.periods.3.id","1.periods.3.eventId","1.periods.3.startPeriod","1.periods.3.endPeriod","1.periods.4.id","1.periods.4.eventId","1.periods.4.startPeriod","1.periods.4.endPeriod","1.periods.5.id","1.periods.5.eventId","1.periods.5.startPeriod","1.periods.5.endPeriod","1.periods.6.id","1.periods.6.eventId","1.periods.6.startPeriod","1.periods.6.endPeriod","1.periods.7.id","1.periods.7.eventId","1.periods.7.startPeriod","1.periods.7.endPeriod","1.periods.8.id","1.periods.8.eventId","1.periods.8.startPeriod","1.periods.8.endPeriod","1.periods.9.id","1.periods.9.eventId","1.periods.9.startPeriod","1.periods.9.endPeriod","1.periods.10.id","1.periods.10.eventId","1.periods.10.startPeriod","1.periods.10.endPeriod","1.periods.11.id","1.periods.11.eventId","1.periods.11.startPeriod","1.periods.11.endPeriod","1.offSRN","1.eventReference","1.displayM6TollPromo","1.eventLanes.0.laneName","1.eventLanes.0.laneStatus","1.eventLanes.1.laneName","1.eventLanes.1.laneStatus","1.eventLanes.2.laneName","1.eventLanes.2.laneStatus","1.eventLanes.3.laneName","1.eventLanes.3.laneStatus","1.laneClosureDescription","1.fullClosure","1.idProvidedBySource","1.linkIds.0","1.additionalDescription","1.formatDesc.0","1.formatDesc.1","1.formatDesc.2","1.formatDesc.3","1.gdpFormatted.0","1.gdpFormatted.1","1.gdpFormatted.2","1.gdpFormatted.3","1.awpFormatted.0","1.awpFormatted.1","1.awpFormatted.2","1.awpFormatted.3","1.awpFormatted.4","1.awpFormatted.5","1.junction_ds_desc","1.junction_us_desc","_key","0.periods.1.id","0.periods.1.eventId","0.periods.1.startPeriod","0.periods.1.endPeriod","0.periods.2.id","0.periods.2.eventId","0.periods.2.startPeriod","0.periods.2.endPeriod","0.eventLanes.0.laneName","0.eventLanes.0.laneStatus","0.eventLanes.1.laneName","0.eventLanes.1.laneStatus","0.eventLanes.2.laneName","0.eventLanes.2.laneStatus","0.eventLanes.3.laneName","0.eventLanes.3.laneStatus","0.awpFormatted.1","0.awpFormatted.2","0.awpFormatted.3","0.awpFormatted.4","0.eventLanes.4.laneName","0.eventLanes.4.laneStatus","0.periods.3.id","0.periods.3.eventId","0.periods.3.startPeriod","0.periods.3.endPeriod","0.periods.4.id","0.periods.4.eventId","0.periods.4.startPeriod","0.periods.4.endPeriod","0.periods.5.id","0.periods.5.eventId","0.periods.5.startPeriod","0.periods.5.endPeriod","0.periods.6.id","0.periods.6.eventId","0.periods.6.startPeriod","0.periods.6.endPeriod","0.periods.7.id","0.periods.7.eventId","0.periods.7.startPeriod","0.periods.7.endPeriod","0.periods.8.id","0.periods.8.eventId","0.periods.8.startPeriod","0.periods.8.endPeriod","1.formatDesc.4","1.gdpFormatted.4","1.linkIds.1","1.linkIds.2","1.linkIds.3","2.id","2.description","2.awp","2.gdp","2.cause","2.severity","2.completed","2.confirmed","2.roadName","2.lastUpdatedTimestamp","2.current","2.latitude","2.longitude","2.teEventType","2.delay","2.returnToFreeFlow","2.creationDate","2.overallEndDate","2.overallStartDate","2.periods.0.id","2.periods.0.eventId","2.periods.0.startPeriod","2.periods.0.endPeriod","2.periods.1.id","2.periods.1.eventId","2.periods.1.startPeriod","2.periods.1.endPeriod","2.offSRN","2.eventReference","2.displayM6TollPromo","2.eventLanes.0.laneName","2.eventLanes.0.laneStatus","2.eventLanes.1.laneName","2.eventLanes.1.laneStatus","2.eventLanes.2.laneName","2.eventLanes.2.laneStatus","2.eventLanes.3.laneName","2.eventLanes.3.laneStatus","2.laneClosureDescription","2.fullClosure","2.idProvidedBySource","2.linkIds.0","2.additionalDescription","2.formatDesc.0","2.formatDesc.1","2.formatDesc.2","2.formatDesc.3","2.gdpFormatted.0","2.gdpFormatted.1","2.gdpFormatted.2","2.gdpFormatted.3","2.awpFormatted.0","2.awpFormatted.1","2.awpFormatted.2","2.awpFormatted.3","2.junction_ds_desc","2.junction_us_desc","0.linkIds.3","1.awpFormatted.6","1.awpFormatted.7","1.awpFormatted.8","2.periods.2.id","2.periods.2.eventId","2.periods.2.startPeriod","2.periods.2.endPeriod","2.periods.3.id","2.periods.3.eventId","2.periods.3.startPeriod","2.periods.3.endPeriod","2.periods.4.id","2.periods.4.eventId","2.periods.4.startPeriod","2.periods.4.endPeriod","2.periods.5.id","2.periods.5.eventId","2.periods.5.startPeriod","2.periods.5.endPeriod","2.periods.6.id","2.periods.6.eventId","2.periods.6.startPeriod","2.periods.6.endPeriod","2.awpFormatted.4","2.awpFormatted.5","2.awpFormatted.6","2.awpFormatted.7","2.awpFormatted.8","0.linkIds.4","0.periods.9.id","0.periods.9.eventId","0.periods.9.startPeriod","0.periods.9.endPeriod","0.periods.10.id","0.periods.10.eventId","0.periods.10.startPeriod","0.periods.10.endPeriod","0.periods.11.id","0.periods.11.eventId","0.periods.11.startPeriod","0.periods.11.endPeriod","0.periods.12.id","0.periods.12.eventId","0.periods.12.startPeriod","0.periods.12.endPeriod"
+"3775991",,"","Location : The M1 southbound between junctions J25  and J24A 
+Name : M1 J25 southbound access : M1 J24A southbound exit : MAJOR SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 20:06 on 16 May 2022 to 06:00 on 1 June 2022
+","","LOW",false,false,"M1",1652728000108,true,52.91544,-1.2986954,"ROADWORKS",,,,1654059600000,1652727600000,,,1652727600000,1654059600000,false,"RW-22-04-28-400653",false,,false,"245984",200127298,199017302,107026401,,"Location : The M1 southbound between junctions J25  and J24A ","Name : M1 J25 southbound access : M1 J24A southbound exit : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 20:06 on 16 May 2022 to 06:00 on 1 June 2022","Location : The M1 southbound between junctions J25  and J24A ","Name : M1 J25 southbound access : M1 J24A southbound exit : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 20:06 on 16 May 2022 to 06:00 on 1 June 2022","","J24A","J25","3793894",,"Location : The M1 southbound between junctions J25  and J24 
+Reason : Roadworks are planned
+Status : Pending
+Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022
+Schedule : Expect disruption everyday between 20:00 and 06:00 from 23 May 2022 to 28 May 2022
+Schedule : Expect disruption everyday between 20:00 and 06:00 from 30 May 2022 to 1 June 2022
+","Location : The M1 southbound between junctions J25  and J24 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound and southbound Jct 23 to Jct 25.
+Slip road and lane closure for construction works.
+Diversion via national Highways network.","LOW",false,false,"M1",1652989661948,true,52.90189,-1.2986935,"ROADWORKS",,,,1654059600000,1652986800000,,,1652727600000,1652763600000,,,1652814000000,1652850000000,,,1652900400000,1652936400000,,,1652986800000,1653022800000,,,1653073200000,1653109200000,,,1653332400000,1653368400000,,,1653418800000,1653454800000,,,1653505200000,1653541200000,,,1653591600000,1653627600000,,,1653678000000,1653714000000,,,1653937200000,1653973200000,,,1654023600000,1654059600000,false,"RW-22-05-12-400656",false,"Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","CLOSED","Lane 4","NORMAL",,false,"245984",107026401,,"Location : The M1 southbound between junctions J25  and J24 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022","Location : The M1 southbound between junctions J25  and J24 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022","Location : The M1 southbound between junctions J25  and J24 ","Reason : Roadworks are planned","Status : Pending","Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022","Schedule : Expect disruption everyday between 20:00 and 06:00 from 23 May 2022 to 28 May 2022","Schedule : Expect disruption everyday between 20:00 and 06:00 from 30 May 2022 to 1 June 2022","J24A","J25","107026401",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3793890",,"Location : The M1 northbound between junctions J24  and J25 
+Reason : Roadworks are planned
+Status : Pending
+Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022
+","Location : The M1 northbound between junctions J24  and J25 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound and southbound Jct 23 to Jct 25.
+Slip road and lane closure for construction works.
+Diversion via national Highways network.","LOW",false,false,"M1",1652992223936,true,52.84325,-1.2957516,"ROADWORKS",,,,1653109200000,1652986800000,,,1652468400000,1652504400000,false,"RW-22-05-12-400652",false,,false,"245984",199017201,107026901,107031202,,"Location : The M1 northbound between junctions J24  and J25 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J24  and J25 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J24  and J25 ","J24","J23A",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"107026901",,,1652986800000,1653022800000,,,1653073200000,1653109200000,"Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","CLOSED","Lane 4","NORMAL","Reason : Roadworks are planned","Status : Pending","Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3795524",,"Location : The M1 southbound between junctions J23A  and J23 
+Reason : Emergency roadside drains works are planned
+Status : Pending
+Schedule : From 20:00 on 19 May 2022 to 06:00 on 20 May 2022
+Schedule : Expect disruption everyday between 20:00 and 06:00 from 23 May 2022 to 25 May 2022
+","Location : The M1 southbound between junctions J23A  and J23 
+Reason : Emergency Roadside Drains works
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound and southbound  Jct 23 to Jct 23a.
+Lane closures for maintenance works.","LOW",false,false,"M1",1652988960518,true,52.794876,-1.2931914,"ROADWORKS",,,,1653454800000,1652986800000,,,1652986800000,1653022800000,false,"RW-22-05-13-500714",false,,false,"257745",107030501,107030601,,,"Location : The M1 southbound between junctions J23A  and J23 ","Reason : Emergency Roadside Drains works","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 southbound between junctions J23A  and J23 ","Reason : Emergency Roadside Drains works","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 southbound between junctions J23A  and J23 ","J23","J23A",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"107030501",,,1653332400000,1653368400000,,,1653418800000,1653454800000,"Hard Shoulder","NORMAL","Lane 1","NORMAL","Lane 2","CLOSED","Lane 3","CLOSED","Reason : Emergency roadside drains works are planned","Status : Pending","Schedule : From 20:00 on 19 May 2022 to 06:00 on 20 May 2022","Schedule : Expect disruption everyday between 20:00 and 06:00 from 23 May 2022 to 25 May 2022",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3795524",,"Location : The M1 southbound between junctions J23A  and J23 
+Reason : Emergency roadside drains works are planned
+Status : Pending
+Schedule : From 20:00 on 19 May 2022 to 06:00 on 20 May 2022
+Schedule : Expect disruption everyday between 20:00 and 06:00 from 23 May 2022 to 25 May 2022
+","Location : The M1 southbound between junctions J23A  and J23 
+Reason : Emergency Roadside Drains works
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound and southbound  Jct 23 to Jct 23a.
+Lane closures for maintenance works.","LOW",false,false,"M1",1652988960518,true,52.794876,-1.2931914,"ROADWORKS",,,,1653454800000,1652986800000,,,1652986800000,1653022800000,false,"RW-22-05-13-500714",false,,false,"257745",107030501,107030601,,,"Location : The M1 southbound between junctions J23A  and J23 ","Reason : Emergency Roadside Drains works","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 southbound between junctions J23A  and J23 ","Reason : Emergency Roadside Drains works","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 southbound between junctions J23A  and J23 ","J23","J23A",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"107030601",,,1653332400000,1653368400000,,,1653418800000,1653454800000,"Hard Shoulder","NORMAL","Lane 1","NORMAL","Lane 2","CLOSED","Lane 3","CLOSED","Reason : Emergency roadside drains works are planned","Status : Pending","Schedule : From 20:00 on 19 May 2022 to 06:00 on 20 May 2022","Schedule : Expect disruption everyday between 20:00 and 06:00 from 23 May 2022 to 25 May 2022",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3793890",,"Location : The M1 northbound between junctions J24  and J25 
+Reason : Roadworks are planned
+Status : Pending
+Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022
+","Location : The M1 northbound between junctions J24  and J25 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound and southbound Jct 23 to Jct 25.
+Slip road and lane closure for construction works.
+Diversion via national Highways network.","LOW",false,false,"M1",1652992223936,true,52.84325,-1.2957516,"ROADWORKS",,,,1653109200000,1652986800000,,,1652468400000,1652504400000,false,"RW-22-05-12-400652",false,,false,"245984",199017201,107026901,107031202,,"Location : The M1 northbound between junctions J24  and J25 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J24  and J25 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J24  and J25 ","J24","J23A",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"107031202",,,1652986800000,1653022800000,,,1653073200000,1653109200000,"Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","CLOSED","Lane 4","NORMAL","Reason : Roadworks are planned","Status : Pending","Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3794612",,"","Location : The M1 northbound between junctions J23A  and J24 
+Reason : Emergency Roadworks
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound Jct 23a to Jct 24
+Lane closure due to maintenance works","LOW",false,false,"M1",1652994136682,true,52.830166,-1.2999024,"ROADWORKS",,,,1653022800000,1652986800000,,,1652986800000,1653022800000,false,"RW-22-05-12-401377",false,,false,"268859",107031401,,,,"Location : The M1 northbound between junctions J23A  and J24 ","Reason : Emergency Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J23A  and J24 ","Reason : Emergency Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"","J24","J23A",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"107031401",,,,,,,,,"Hard Shoulder","NORMAL","Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","CLOSED",,,,,"Lane 4","NORMAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3767277",,"","Location : The M1 southbound at junction J16 
+Name : M1 southbound within J16 : MAJOR SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 21:02 on 12 May 2022 to 06:00 on 1 June 2022
+","","LOW",false,false,"M1",1652461408667,true,52.231583,-1.0215018,"ROADWORKS",,,,1654059600000,1652385600000,,,1652385600000,1654059600000,false,"RW-22-04-21-401015",false,,false,"75419",108018701,,,,"Location : The M1 southbound at junction J16 ","Name : M1 southbound within J16 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 21:02 on 12 May 2022 to 06:00 on 1 June 2022","Location : The M1 southbound at junction J16 ","Name : M1 southbound within J16 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 21:02 on 12 May 2022 to 06:00 on 1 June 2022","","J16","J17",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"108018701",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3617532",,"","Location : The M1 southbound between junctions J16  and J15A 
+Name : M1 southbound between J16 and J15A : MAJOR SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 21:00 on 12 May 2022 to 06:00 on 28 May 2022
+","","LOW",false,false,"M1",1652770621277,true,52.228287,-1.0063062,"ROADWORKS",,,,1653714000000,1652385600000,,,1652385600000,1653714000000,false,"RW-21-12-23-400564",false,,false,"75420",108019101,,,,"Location : The M1 southbound between junctions J16  and J15A ","Name : M1 southbound between J16 and J15A : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 21:00 on 12 May 2022 to 06:00 on 28 May 2022","Location : The M1 southbound between junctions J16  and J15A ","Name : M1 southbound between J16 and J15A : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 21:00 on 12 May 2022 to 06:00 on 28 May 2022","","J15A","J16","3793975",,"Location : The M1 southbound between junctions J16  and J15A 
+Reason : Roadworks are planned
+Status : Pending
+Schedule : Expect disruption everyday between 21:00 and 06:00 from 19 May 2022 to 21 May 2022
+Schedule : Expect disruption everyday between 21:00 and 06:00 from 23 May 2022 to 28 May 2022
+","Location : The M1 southbound between junctions J16  and J15A 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound and southbound J15a to Jct 16.
+Carriageway,lane closures,24 hour narrow lanes and speed restriction due to construction works (SMART Motorways).
+","LOW",false,false,"M1",1652993137852,true,52.228287,-1.0063062,"ROADWORKS",,,,1653714000000,1652990400000,,,1652731200000,1652763600000,,,1652817600000,1652850000000,,,1652904000000,1652936400000,,,1652990400000,1653022800000,,,1653076800000,1653109200000,,,1653336000000,1653368400000,,,1653422400000,1653454800000,,,1653508800000,1653541200000,,,1653595200000,1653627600000,,,1653681600000,1653714000000,,,,,,,,,false,"RW-22-05-12-400737",false,"Hard Shoulder","NORMAL","Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","NORMAL",,false,"75420",108019101,,"Location : The M1 southbound between junctions J16  and J15A ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022","Location : The M1 southbound between junctions J16  and J15A ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022","Location : The M1 southbound between junctions J16  and J15A ","Reason : Roadworks are planned","Status : Pending","Schedule : Expect disruption everyday between 21:00 and 06:00 from 19 May 2022 to 21 May 2022","Schedule : Expect disruption everyday between 21:00 and 06:00 from 23 May 2022 to 28 May 2022",,"J15A","J16","108019101",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3793985",,"Location : The M1 northbound between junctions J15  and J15A 
+Reason : Roadworks are planned
+Status : Pending
+Schedule : Expect disruption everyday between 21:00 and 06:00 from 19 May 2022 to 21 May 2022
+Schedule : Expect disruption everyday between 21:00 and 06:00 from 23 May 2022 to 28 May 2022
+","Location : The M1 northbound between junctions J15  and J15A 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound and southbound Jct 15 to Jct 15a.
+Carriageway, lane closures, 24 hour narrow lanes and speed restriction due to construction works (SMART Motorways).
+","LOW",false,false,"M1",1652996295105,true,52.190895,-0.904421,"ROADWORKS",,,,1653714000000,1652990400000,,,1652817600000,1652850000000,false,"RW-22-05-12-400747",false,,false,"75423",108019201,,,,"Location : The M1 northbound between junctions J15  and J15A ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J15  and J15A ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J15  and J15A ","J15A","J15","3759139",,"","Location : The M1 northbound between junctions J15  and J15A 
+Name : M1 northbound between J15 and J15A : MAJOR SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 21:00 on 17 May 2022 to 06:00 on 28 May 2022
+","","LOW",false,false,"M1",1652817625442,true,52.190895,-0.904421,"ROADWORKS",,,,1653714000000,1652817600000,,,1652817600000,1653714000000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,false,"RW-22-04-14-401081",false,,,,,,,,,,false,"75423",108019201,,"Location : The M1 northbound between junctions J15  and J15A ","Name : M1 northbound between J15 and J15A : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Location : The M1 northbound between junctions J15  and J15A ","Name : M1 northbound between J15 and J15A : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","",,,,,,"J15A","J15","108019201",,,1652904000000,1652936400000,,,1652990400000,1653022800000,"Hard Shoulder","NORMAL","Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","NORMAL","Reason : Roadworks are planned","Status : Pending","Schedule : Expect disruption everyday between 21:00 and 06:00 from 19 May 2022 to 21 May 2022","Schedule : Expect disruption everyday between 21:00 and 06:00 from 23 May 2022 to 28 May 2022",,,,,1653076800000,1653109200000,,,1653336000000,1653368400000,,,1653422400000,1653454800000,,,1653508800000,1653541200000,,,1653595200000,1653627600000,,,1653681600000,1653714000000,"Period : from 21:00 on 17 May 2022 to 06:00 on 28 May 2022","Period : from 21:00 on 17 May 2022 to 06:00 on 28 May 2022",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3617559",,"","Location : The M1 southbound at junction J15 
+Name : M1 southbound within J15 : MAJOR SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 21:00 on 12 May 2022 to 06:00 on 30 May 2022
+","","LOW",false,false,"M1",1652385631216,true,52.188084,-0.8993227,"ROADWORKS",,,,1653886800000,1652385600000,,,1652385600000,1653886800000,false,"RW-21-12-23-400591",false,,false,"75424",108019401,,,,"Location : The M1 southbound at junction J15 ","Name : M1 southbound within J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 21:00 on 12 May 2022 to 06:00 on 30 May 2022","Location : The M1 southbound at junction J15 ","Name : M1 southbound within J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 21:00 on 12 May 2022 to 06:00 on 30 May 2022","","J15","J15A",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"108019401",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3736971",,"","Location : The M1 northbound between junctions J14  and J15 
+Name : M1 northbound between J14 and J15 : MAJOR SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 21:00 on 12 May 2022 to 06:00 on 1 June 2022
+","","HIGHEST",false,false,"M1",1652385639350,true,52.146526,-0.8402117,"ROADWORKS",,,,1654059600000,1652385600000,,,1652385600000,1654059600000,false,"RW-22-03-28-101729",false,,false,"75425",108019502,,,,"Location : The M1 northbound between junctions J14  and J15 ","Name : M1 northbound between J14 and J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 21:00 on 12 May 2022 to 06:00 on 1 June 2022","Location : The M1 northbound between junctions J14  and J15 ","Name : M1 northbound between J14 and J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 21:00 on 12 May 2022 to 06:00 on 1 June 2022","","J15","J14","3619354",,"","Location : The M1 northbound between junctions J14  and J15 
+Name : M1 J14 northbound access : M1 northbound between J14 and J15 : MAJOR SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 00:00 on 6 May 2022 to 22:00 on 6 June 2022
+","","HIGH",false,false,"M1",1652430746094,true,52.05836,-0.7007035,"ROADWORKS",,,,1654549200000,1652418000000,,,1652418000000,1654549200000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,false,"RW-21-12-27-100520",false,,,,,,,,,,false,"248241",123017801,,"Location : The M1 northbound between junctions J14  and J15 ","Name : M1 J14 northbound access : M1 northbound between J14 and J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Location : The M1 northbound between junctions J14  and J15 ","Name : M1 J14 northbound access : M1 northbound between J14 and J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","",,,,,,"J15","J14","108019502",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Period : from 00:00 on 6 May 2022 to 22:00 on 6 June 2022","Period : from 00:00 on 6 May 2022 to 22:00 on 6 June 2022",123017701,108019502,108020002,"3795071",,"Location : The M1 northbound between junctions J14  and J15 
+Reason : Roadworks are planned
+Status : Pending
+Schedule : From 22:00 on 19 May 2022 to 06:00 on 20 May 2022
+","Location : The M1 northbound between junctions J14  and J15 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 Northbound and Southbound
+Jct 14 to Hartwell Area 7/8 Border - Various Lane closures and Carriageway closures for Smart Motorway works on behalf of CostainGT
+","LOW",false,false,"M1",1652993447835,true,52.11037,-0.7884019,"ROADWORKS",,,,1653022800000,1652907600000,,,1652907600000,1652936400000,,,1652994000000,1653022800000,false,"RW-22-05-13-500261",false,"Hard Shoulder","NORMAL","Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","NORMAL",,false,"248241",108019502,,"Location : The M1 northbound between junctions J14  and J15 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022","Location : The M1 northbound between junctions J14  and J15 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022","Location : The M1 northbound between junctions J14  and J15 ","Reason : Roadworks are planned","Status : Pending","Schedule : From 22:00 on 19 May 2022 to 06:00 on 20 May 2022","J15","J14",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3759143",,"","Location : The M1 southbound between junctions J15A  and J15 
+Name : M1 southbound between J15A and J15 : MAJOR SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 21:01 on 12 May 2022 to 06:00 on 28 May 2022
+","","LOW",false,false,"M1",1652683843692,true,52.207905,-0.93709433,"ROADWORKS",,,,1653714000000,1652385600000,,,1652385600000,1653714000000,false,"RW-22-04-14-401085",false,,false,"75423",108019601,,,,"Location : The M1 southbound between junctions J15A  and J15 ","Name : M1 southbound between J15A and J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 21:01 on 12 May 2022 to 06:00 on 28 May 2022","Location : The M1 southbound between junctions J15A  and J15 ","Name : M1 southbound between J15A and J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 21:01 on 12 May 2022 to 06:00 on 28 May 2022","","J15","J15A",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"108019601",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3619365",,"","Location : The M1 southbound
+Name : M1 southbound at the Newport Pagnell services slip road between J15 and J14 : M1 southbound between J14 and J13 : MAJOR SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 06:00 on 19 March 2022 to 22:00 on 6 June 2022
+","","HIGHEST",false,false,"M1",1652430764710,true,52.08291,-0.7472899,"ROADWORKS",,,,1654549200000,1652418000000,,,1652418000000,1654549200000,false,"RW-21-12-27-100531",false,,false,"248241",108020201,108019802,123018002,,"Location : The M1 southbound","Name : M1 southbound at the Newport Pagnell services slip road between J15 and J14 : M1 southbound between J14 and J13 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 06:00 on 19 March 2022 to 22:00 on 6 June 2022","Location : The M1 southbound","Name : M1 southbound at the Newport Pagnell services slip road between J15 and J14 : M1 southbound between J14 and J13 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 06:00 on 19 March 2022 to 22:00 on 6 June 2022","","J14","J15",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"108019802",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108019901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3619365",,"","Location : The M1 southbound
+Name : M1 southbound at the Newport Pagnell services slip road between J15 and J14 : M1 southbound between J14 and J13 : MAJOR SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 06:00 on 19 March 2022 to 22:00 on 6 June 2022
+","","HIGHEST",false,false,"M1",1652430764710,true,52.08291,-0.7472899,"ROADWORKS",,,,1654549200000,1652418000000,,,1652418000000,1654549200000,false,"RW-21-12-27-100531",false,,false,"248241",108020201,108019802,123018002,,"Location : The M1 southbound","Name : M1 southbound at the Newport Pagnell services slip road between J15 and J14 : M1 southbound between J14 and J13 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 06:00 on 19 March 2022 to 22:00 on 6 June 2022","Location : The M1 southbound","Name : M1 southbound at the Newport Pagnell services slip road between J15 and J14 : M1 southbound between J14 and J13 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 06:00 on 19 March 2022 to 22:00 on 6 June 2022","","J14","J15",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"108019901",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108019901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3619377",,"","Location : The M1 northbound between junctions J13  and J15 
+Name : M1 northbound within J13 : M1 northbound between J14 and J15 : MAJOR SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 06:00 on 7 May 2022 to 22:00 on 6 June 2022
+","","HIGHEST",false,false,"M1",1652970528626,true,52.02652,-0.6038495,"ROADWORKS",,,,1654549200000,1651899600000,,,1651899600000,1654549200000,false,"RW-21-12-27-100543",false,,false,"248182",108020101,123017701,108020301,,"Location : The M1 northbound between junctions J13  and J15 ","Name : M1 northbound within J13 : M1 northbound between J14 and J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 06:00 on 7 May 2022 to 22:00 on 6 June 2022","Location : The M1 northbound between junctions J13  and J15 ","Name : M1 northbound within J13 : M1 northbound between J14 and J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 06:00 on 7 May 2022 to 22:00 on 6 June 2022","","J14","J13",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"108020001",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108020001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3619377",,"","Location : The M1 northbound between junctions J13  and J15 
+Name : M1 northbound within J13 : M1 northbound between J14 and J15 : MAJOR SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 06:00 on 7 May 2022 to 22:00 on 6 June 2022
+","","HIGHEST",false,false,"M1",1652970528626,true,52.02652,-0.6038495,"ROADWORKS",,,,1654549200000,1651899600000,,,1651899600000,1654549200000,false,"RW-21-12-27-100543",false,,false,"248182",108020101,123017701,108020301,,"Location : The M1 northbound between junctions J13  and J15 ","Name : M1 northbound within J13 : M1 northbound between J14 and J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 06:00 on 7 May 2022 to 22:00 on 6 June 2022","Location : The M1 northbound between junctions J13  and J15 ","Name : M1 northbound within J13 : M1 northbound between J14 and J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 06:00 on 7 May 2022 to 22:00 on 6 June 2022","","J14","J13","3794145",,"Location : The M1 northbound between junctions J13  and J14 
+Reason : Roadworks are planned
+Status : Pending
+Schedule : From 06:00 on 7 May 2022 to 22:00 on 21 May 2022
+Schedule : Expect disruption everyday between 06:00 and 22:00 from 22 May 2022 to 23 May 2022
+Schedule : From 06:00 on 24 May 2022 to 22:00 on 27 May 2022
+Schedule : From 06:00 on 28 May 2022 to 22:00 on 30 May 2022
+Schedule : From 06:00 on 31 May 2022 to 22:00 on 31 May 2022
+Schedule : From 06:00 on 1 June 2022 to 22:00 on 6 June 2022
+","Location : The M1 northbound between junctions J13  and J14 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 22:00 on 21 May 2022
+","M1 Northbound and Southbound 
+Jct 13 to Jct 14 - Various Lane closures and Carriageway closures for Smart Motorway works on behalf of CostainGT","LOW",false,false,"M1",1652970528620,true,52.02857,-0.61198586,"ROADWORKS",,,,1654549200000,1651899600000,,,1651899600000,1653166800000,,,1653195600000,1653253200000,,,1653282000000,1653339600000,,,1653368400000,1653685200000,,,1653714000000,1653944400000,,,1653973200000,1654030800000,,,1654059600000,1654549200000,,,,,,,,,,,,,,,,,,,,,false,"RW-22-05-12-400907",false,"Hard Shoulder","HARD_SHOULDER_RUNNING","Lane 1","NORMAL","Lane 2","NORMAL","Lane 3","NORMAL",,false,"248182",108020101,,"Location : The M1 northbound between junctions J13  and J14 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 22:00 on 21 May 2022","Location : The M1 northbound between junctions J13  and J14 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 22:00 on 21 May 2022","Location : The M1 northbound between junctions J13  and J14 ","Reason : Roadworks are planned","Status : Pending","Schedule : From 06:00 on 7 May 2022 to 22:00 on 21 May 2022","Schedule : Expect disruption everyday between 06:00 and 22:00 from 22 May 2022 to 23 May 2022","Schedule : From 06:00 on 24 May 2022 to 22:00 on 27 May 2022","J13","J12","108020101",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108020301,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108020001,"Schedule : From 06:00 on 28 May 2022 to 22:00 on 30 May 2022","Schedule : From 06:00 on 31 May 2022 to 22:00 on 31 May 2022","Schedule : From 06:00 on 1 June 2022 to 22:00 on 6 June 2022",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3619384",,"","Location : The M1 southbound between junctions J14  and J13 
+Name : M1 southbound between J14 and J13 : MAJOR SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 06:00 on 7 May 2022 to 22:00 on 6 June 2022
+","","HIGHEST",false,false,"M1",1652888892969,true,52.056274,-0.69317883,"ROADWORKS",,,,1654549200000,1651899600000,,,1651899600000,1654549200000,false,"RW-21-12-27-100550",false,,false,"248182",108020201,,,,"Location : The M1 southbound between junctions J14  and J13 ","Name : M1 southbound between J14 and J13 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 06:00 on 7 May 2022 to 22:00 on 6 June 2022","Location : The M1 southbound between junctions J14  and J13 ","Name : M1 southbound between J14 and J13 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 06:00 on 7 May 2022 to 22:00 on 6 June 2022","","J13","J14","3619365",,"","Location : The M1 southbound
+Name : M1 southbound at the Newport Pagnell services slip road between J15 and J14 : M1 southbound between J14 and J13 : MAJOR SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 06:00 on 19 March 2022 to 22:00 on 6 June 2022
+","","HIGHEST",false,false,"M1",1652430764710,true,52.08291,-0.7472899,"ROADWORKS",,,,1654549200000,1652418000000,,,1652418000000,1654549200000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,false,"RW-21-12-27-100531",false,,,,,,,,,,false,"248241",108020201,,"Location : The M1 southbound","Name : M1 southbound at the Newport Pagnell services slip road between J15 and J14 : M1 southbound between J14 and J13 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Location : The M1 southbound","Name : M1 southbound at the Newport Pagnell services slip road between J15 and J14 : M1 southbound between J14 and J13 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","",,,,,,"J14","J15","108020201",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Period : from 06:00 on 19 March 2022 to 22:00 on 6 June 2022","Period : from 06:00 on 19 March 2022 to 22:00 on 6 June 2022",108019802,123018002,108019901,"3794147",,"Location : The M1 southbound between junctions J14  and J13 
+Reason : Roadworks are planned
+Status : Pending
+Schedule : From 06:00 on 7 May 2022 to 22:00 on 21 May 2022
+Schedule : Expect disruption everyday between 06:00 and 22:00 from 22 May 2022 to 23 May 2022
+Schedule : From 06:00 on 24 May 2022 to 22:00 on 27 May 2022
+Schedule : From 06:00 on 28 May 2022 to 22:00 on 30 May 2022
+Schedule : From 06:00 on 31 May 2022 to 22:00 on 31 May 2022
+Schedule : From 06:00 on 1 June 2022 to 22:00 on 6 June 2022
+","Location : The M1 southbound between junctions J14  and J13 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 22:00 on 21 May 2022
+","M1 Northbound and Southbound 
+Jct 13 to Jct 14 - Various Lane closures and Carriageway closures for Smart Motorway works on behalf of CostainGT","LOW",false,false,"M1",1652888892976,true,52.056274,-0.69317883,"ROADWORKS",,,,1654549200000,1651899600000,,,1651899600000,1653166800000,,,1653195600000,1653253200000,false,"RW-22-05-12-400909",false,"Hard Shoulder","HARD_SHOULDER_RUNNING","Lane 1","NORMAL","Lane 2","NORMAL","Lane 3","NORMAL",,false,"248182",108020201,,"Location : The M1 southbound between junctions J14  and J13 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 22:00 on 21 May 2022","Location : The M1 southbound between junctions J14  and J13 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 22:00 on 21 May 2022","Location : The M1 southbound between junctions J14  and J13 ","Reason : Roadworks are planned","Status : Pending","Schedule : From 06:00 on 7 May 2022 to 22:00 on 21 May 2022","J13","J14",,,,,,,1653282000000,1653339600000,,,1653368400000,1653685200000,,,1653714000000,1653944400000,,,1653973200000,1654030800000,,,1654059600000,1654549200000,"Schedule : Expect disruption everyday between 06:00 and 22:00 from 22 May 2022 to 23 May 2022","Schedule : From 06:00 on 24 May 2022 to 22:00 on 27 May 2022","Schedule : From 06:00 on 28 May 2022 to 22:00 on 30 May 2022","Schedule : From 06:00 on 31 May 2022 to 22:00 on 31 May 2022","Schedule : From 06:00 on 1 June 2022 to 22:00 on 6 June 2022",,,,,,,,,,,,,,,,,
+"3619377",,"","Location : The M1 northbound between junctions J13  and J15 
+Name : M1 northbound within J13 : M1 northbound between J14 and J15 : MAJOR SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 06:00 on 7 May 2022 to 22:00 on 6 June 2022
+","","HIGHEST",false,false,"M1",1652970528626,true,52.02652,-0.6038495,"ROADWORKS",,,,1654549200000,1651899600000,,,1651899600000,1654549200000,false,"RW-21-12-27-100543",false,,false,"248182",108020101,123017701,108020301,,"Location : The M1 northbound between junctions J13  and J15 ","Name : M1 northbound within J13 : M1 northbound between J14 and J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 06:00 on 7 May 2022 to 22:00 on 6 June 2022","Location : The M1 northbound between junctions J13  and J15 ","Name : M1 northbound within J13 : M1 northbound between J14 and J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 06:00 on 7 May 2022 to 22:00 on 6 June 2022","","J14","J13","3794145",,"Location : The M1 northbound between junctions J13  and J14 
+Reason : Roadworks are planned
+Status : Pending
+Schedule : From 06:00 on 7 May 2022 to 22:00 on 21 May 2022
+Schedule : Expect disruption everyday between 06:00 and 22:00 from 22 May 2022 to 23 May 2022
+Schedule : From 06:00 on 24 May 2022 to 22:00 on 27 May 2022
+Schedule : From 06:00 on 28 May 2022 to 22:00 on 30 May 2022
+Schedule : From 06:00 on 31 May 2022 to 22:00 on 31 May 2022
+Schedule : From 06:00 on 1 June 2022 to 22:00 on 6 June 2022
+","Location : The M1 northbound between junctions J13  and J14 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 22:00 on 21 May 2022
+","M1 Northbound and Southbound 
+Jct 13 to Jct 14 - Various Lane closures and Carriageway closures for Smart Motorway works on behalf of CostainGT","LOW",false,false,"M1",1652970528620,true,52.02857,-0.61198586,"ROADWORKS",,,,1654549200000,1651899600000,,,1651899600000,1653166800000,,,1653195600000,1653253200000,,,1653282000000,1653339600000,,,1653368400000,1653685200000,,,1653714000000,1653944400000,,,1653973200000,1654030800000,,,1654059600000,1654549200000,,,,,,,,,,,,,,,,,,,,,false,"RW-22-05-12-400907",false,"Hard Shoulder","HARD_SHOULDER_RUNNING","Lane 1","NORMAL","Lane 2","NORMAL","Lane 3","NORMAL",,false,"248182",108020101,,"Location : The M1 northbound between junctions J13  and J14 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 22:00 on 21 May 2022","Location : The M1 northbound between junctions J13  and J14 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 22:00 on 21 May 2022","Location : The M1 northbound between junctions J13  and J14 ","Reason : Roadworks are planned","Status : Pending","Schedule : From 06:00 on 7 May 2022 to 22:00 on 21 May 2022","Schedule : Expect disruption everyday between 06:00 and 22:00 from 22 May 2022 to 23 May 2022","Schedule : From 06:00 on 24 May 2022 to 22:00 on 27 May 2022","J13","J12","108020301",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108020301,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108020001,"Schedule : From 06:00 on 28 May 2022 to 22:00 on 30 May 2022","Schedule : From 06:00 on 31 May 2022 to 22:00 on 31 May 2022","Schedule : From 06:00 on 1 June 2022 to 22:00 on 6 June 2022",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3791660",,"","Location : The M1 northbound between junctions J8  and J10 
+Reason : Road repairs
+Status : Currently Active
+Period : expect disruption until 05:00 on 20 May 2022
+","M1 Northbound
+Jct 8 to Jct 10
+Carriageway Closure for Carriageway - Reconstruction/Renewal on behalf of Ringway","LOW",false,false,"M1",1652994067204,true,51.810562,-0.41557604,"ROADWORKS",,,,1653019200000,1652994000000,,,1652821200000,1652846400000,false,"RW-22-05-10-201272",false,,false,"268868",108022501,108021702,200047566,,"Location : The M1 northbound between junctions J8  and J10 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 05:00 on 20 May 2022",,"Location : The M1 northbound between junctions J8  and J10 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 05:00 on 20 May 2022",,"","J10","J9",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"108021702",,,1652907600000,1652932800000,,,1652994000000,1653019200000,"Hard Shoulder","CLOSED","Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","NORMAL",,,,,"Lane 4","NORMAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108022602,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126018401,,,,,,,,,,,,,,,,
+"3791660",,"","Location : The M1 northbound between junctions J8  and J10 
+Reason : Road repairs
+Status : Currently Active
+Period : expect disruption until 05:00 on 20 May 2022
+","M1 Northbound
+Jct 8 to Jct 10
+Carriageway Closure for Carriageway - Reconstruction/Renewal on behalf of Ringway","LOW",false,false,"M1",1652994067204,true,51.810562,-0.41557604,"ROADWORKS",,,,1653019200000,1652994000000,,,1652821200000,1652846400000,false,"RW-22-05-10-201272",false,,false,"268868",108022501,108021702,200047566,,"Location : The M1 northbound between junctions J8  and J10 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 05:00 on 20 May 2022",,"Location : The M1 northbound between junctions J8  and J10 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 05:00 on 20 May 2022",,"","J10","J9",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"108022501",,,1652907600000,1652932800000,,,1652994000000,1653019200000,"Hard Shoulder","CLOSED","Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","NORMAL",,,,,"Lane 4","NORMAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108022602,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126018401,,,,,,,,,,,,,,,,
+"3791660",,"","Location : The M1 northbound between junctions J8  and J10 
+Reason : Road repairs
+Status : Currently Active
+Period : expect disruption until 05:00 on 20 May 2022
+","M1 Northbound
+Jct 8 to Jct 10
+Carriageway Closure for Carriageway - Reconstruction/Renewal on behalf of Ringway","LOW",false,false,"M1",1652994067204,true,51.810562,-0.41557604,"ROADWORKS",,,,1653019200000,1652994000000,,,1652821200000,1652846400000,false,"RW-22-05-10-201272",false,,false,"268868",108022501,108021702,200047566,,"Location : The M1 northbound between junctions J8  and J10 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 05:00 on 20 May 2022",,"Location : The M1 northbound between junctions J8  and J10 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 05:00 on 20 May 2022",,"","J10","J9",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"108022602",,,1652907600000,1652932800000,,,1652994000000,1653019200000,"Hard Shoulder","CLOSED","Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","NORMAL",,,,,"Lane 4","NORMAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108022602,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126018401,,,,,,,,,,,,,,,,
+"3790331",,"Location : The M1 southbound between junctions J6A  and J5 
+Reason : Road repairs are planned
+Status : Pending
+Schedule : From 22:00 on 19 May 2022 to 05:30 on 20 May 2022
+Schedule : From 23:00 on 20 May 2022 to 06:00 on 21 May 2022
+","Location : The M1 southbound between junctions J6A  and J5 
+Reason : Road repairs
+Status : Currently Active
+Period : expect disruption until 05:30 on 20 May 2022
+","M1 southbound Jct 6A to Jct 6
+Lane and slip road closures for resurfacing works 
+Diversion via National highways network ","LOW",false,false,"M1",1652994048966,true,51.710125,-0.38332585,"ROADWORKS",,,,1653109200000,1652994000000,,,1652734800000,1652761800000,false,"RW-22-05-09-101494",false,,false,"251735",108023701,108025001,108023601,,"Location : The M1 southbound between junctions J6A  and J5 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 05:30 on 20 May 2022",,"Location : The M1 southbound between junctions J6A  and J5 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 05:30 on 20 May 2022",,"Location : The M1 southbound between junctions J6A  and J5 ","J6","J6A",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"108023601",,,1652821200000,1652848200000,,,1652907600000,1652934600000,"Hard Shoulder","CLOSED","Lane 1","CLOSED","Lane 2","NORMAL","Lane 3","NORMAL","Reason : Road repairs are planned","Status : Pending","Schedule : From 22:00 on 19 May 2022 to 05:30 on 20 May 2022","Schedule : From 23:00 on 20 May 2022 to 06:00 on 21 May 2022",,,,,1652994000000,1653021000000,,,1653084000000,1653109200000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3790331",,"Location : The M1 southbound between junctions J6A  and J5 
+Reason : Road repairs are planned
+Status : Pending
+Schedule : From 22:00 on 19 May 2022 to 05:30 on 20 May 2022
+Schedule : From 23:00 on 20 May 2022 to 06:00 on 21 May 2022
+","Location : The M1 southbound between junctions J6A  and J5 
+Reason : Road repairs
+Status : Currently Active
+Period : expect disruption until 05:30 on 20 May 2022
+","M1 southbound Jct 6A to Jct 6
+Lane and slip road closures for resurfacing works 
+Diversion via National highways network ","LOW",false,false,"M1",1652994048966,true,51.710125,-0.38332585,"ROADWORKS",,,,1653109200000,1652994000000,,,1652734800000,1652761800000,false,"RW-22-05-09-101494",false,,false,"251735",108023701,108025001,108023601,,"Location : The M1 southbound between junctions J6A  and J5 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 05:30 on 20 May 2022",,"Location : The M1 southbound between junctions J6A  and J5 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 05:30 on 20 May 2022",,"Location : The M1 southbound between junctions J6A  and J5 ","J6","J6A",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"108023701",,,1652821200000,1652848200000,,,1652907600000,1652934600000,"Hard Shoulder","CLOSED","Lane 1","CLOSED","Lane 2","NORMAL","Lane 3","NORMAL","Reason : Road repairs are planned","Status : Pending","Schedule : From 22:00 on 19 May 2022 to 05:30 on 20 May 2022","Schedule : From 23:00 on 20 May 2022 to 06:00 on 21 May 2022",,,,,1652994000000,1653021000000,,,1653084000000,1653109200000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"2900561",,"","Location : The M1 northbound between junctions J1  and J5 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 05:00 on 27 November 2030
+","M1 Northbound Jct 4 to Jct 5 
+Hard Shoulder closure northbound due to low footbridge headroom","HIGHEST",false,false,"M1",1651827029341,true,51.645107,-0.32849106,"ROADWORKS",,,,1921986000000,1538134800000,,,1538134800000,1921986000000,false,"RW-20-04-17-500492",false,,false,"75882",108024801,,,,"Location : The M1 northbound between junctions J1  and J5 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 05:00 on 27 November 2030",,"Location : The M1 northbound between junctions J1  and J5 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 05:00 on 27 November 2030",,"","J5","J4",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"108024801",,,,,,,,,"Hard Shoulder","CLOSED","Lane 1","NORMAL","Lane 2","NORMAL","Lane 3","NORMAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3790331",,"Location : The M1 southbound between junctions J6A  and J5 
+Reason : Road repairs are planned
+Status : Pending
+Schedule : From 22:00 on 19 May 2022 to 05:30 on 20 May 2022
+Schedule : From 23:00 on 20 May 2022 to 06:00 on 21 May 2022
+","Location : The M1 southbound between junctions J6A  and J5 
+Reason : Road repairs
+Status : Currently Active
+Period : expect disruption until 05:30 on 20 May 2022
+","M1 southbound Jct 6A to Jct 6
+Lane and slip road closures for resurfacing works 
+Diversion via National highways network ","LOW",false,false,"M1",1652994048966,true,51.710125,-0.38332585,"ROADWORKS",,,,1653109200000,1652994000000,,,1652734800000,1652761800000,false,"RW-22-05-09-101494",false,,false,"251735",108023701,108025001,108023601,,"Location : The M1 southbound between junctions J6A  and J5 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 05:30 on 20 May 2022",,"Location : The M1 southbound between junctions J6A  and J5 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 05:30 on 20 May 2022",,"Location : The M1 southbound between junctions J6A  and J5 ","J6","J6A",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"108025001",,,1652821200000,1652848200000,,,1652907600000,1652934600000,"Hard Shoulder","CLOSED","Lane 1","CLOSED","Lane 2","NORMAL","Lane 3","NORMAL","Reason : Road repairs are planned","Status : Pending","Schedule : From 22:00 on 19 May 2022 to 05:30 on 20 May 2022","Schedule : From 23:00 on 20 May 2022 to 06:00 on 21 May 2022",,,,,1652994000000,1653021000000,,,1653084000000,1653109200000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3785844",,"","Location : The M1 northbound between junctions J35A  and J36 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound Jct 36.
+Carriageway and lane closures for carriageway improvement works.
+Diversion route in place via National Highways roads.","LOW",false,false,"M1",1652988192428,true,53.48774,-1.4687024,"ROADWORKS",,,,1653022800000,1652727600000,,,1652468400000,1652504400000,false,"RW-22-05-05-401457",false,,false,"261277",116019202,116025401,,,"Location : The M1 northbound between junctions J35A  and J36 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J35A  and J36 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"","J36","J35A",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"116019202",,,1652554800000,1652590800000,,,1652641200000,1652677200000,"Hard Shoulder","NORMAL","Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","NORMAL",,,,,,,,,1652727600000,1652763600000,,,1652814000000,1652850000000,,,1652900400000,1652936400000,,,1652986800000,1653022800000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3795218",,"Location : The M1 northbound between junctions J41  and J42 
+Reason : Road repairs are planned
+Status : Pending
+Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022
+Schedule : Expect disruption everyday between 20:00 and 06:00 from 23 May 2022 to 28 May 2022
+","Location : The M1 northbound between junctions J41  and J42 
+Reason : Road repairs
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M62 westbound Jct 29 to Jct 28.
+Carriageway closure for resurfacing works.
+Diversion route on local authority and national highways  networks.","LOW",false,false,"M1",1652986875714,true,53.71915,-1.5285606,"ROADWORKS",,,,1653714000000,1652986800000,,,1652727600000,1652763600000,false,"RW-22-05-13-500408",false,,false,"260059",116019701,,,,"Location : The M1 northbound between junctions J41  and J42 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J41  and J42 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J41  and J42 ","J42","J41",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"116019701",,,1652814000000,1652850000000,,,1652900400000,1652936400000,"Lane 1","CLOSED","Lane 2","NORMAL","Lane 3","NORMAL","Lane 4","NORMAL","Reason : Road repairs are planned","Status : Pending","Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022","Schedule : Expect disruption everyday between 20:00 and 06:00 from 23 May 2022 to 28 May 2022","Lane 5","NORMAL",,,1652986800000,1653022800000,,,1653073200000,1653109200000,,,1653332400000,1653368400000,,,1653418800000,1653454800000,,,1653505200000,1653541200000,,,1653591600000,1653627600000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1653678000000,1653714000000,,,,,,,,,,,,
+"3795219",,"Location : The M1 northbound at junction J41 
+Reason : Road repairs are planned
+Status : Pending
+Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022
+Schedule : Expect disruption everyday between 20:00 and 06:00 from 23 May 2022 to 28 May 2022
+","Location : The M1 northbound at junction J41 
+Reason : Road repairs
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M62 westbound Jct 29 to Jct 28.
+Carriageway closure for resurfacing works.
+Diversion route on local authority and national highways  networks.","LOW",false,false,"M1",1652986875254,true,53.71592,-1.534697,"ROADWORKS",,,,1653714000000,1652986800000,,,1652727600000,1652763600000,false,"RW-22-05-13-500409",false,,false,"260059",116023002,,,,"Location : The M1 northbound at junction J41 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound at junction J41 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound at junction J41 ","J41","J40",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"116023002",,,1652814000000,1652850000000,,,1652900400000,1652936400000,"Lane 1","CLOSED","Lane 2","NORMAL","Lane 3","NORMAL","Lane 4","NORMAL","Reason : Road repairs are planned","Status : Pending","Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022","Schedule : Expect disruption everyday between 20:00 and 06:00 from 23 May 2022 to 28 May 2022",,,,,1652986800000,1653022800000,,,1653073200000,1653109200000,,,1653332400000,1653368400000,,,1653418800000,1653454800000,,,1653505200000,1653541200000,,,1653591600000,1653627600000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1653678000000,1653714000000,,,,,,,,,,,,
+"3794629",,"","Location : The M1 northbound between junctions J45  and J46 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","m1 northbound jct 45 and jct 47 entry slip road closed m1 southbound jct 47 and jct 45 exit slip road closed diversion on national highway  and local authority  network ","LOW",false,false,"M1",1652986894489,true,53.776234,-1.4704895,"ROADWORKS",,,,1653022800000,1652986800000,,,1652986800000,1653022800000,false,"RW-22-05-12-401394",false,,false,"260526",116023902,116023701,,,"Location : The M1 northbound between junctions J45  and J46 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J45  and J46 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"","J46","J45",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"116023701",,,,,,,,,"Hard Shoulder","NORMAL","Lane 1","CLOSED","Lane 2","NORMAL","Lane 3","NORMAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3794628",,"","Location : The M1 southbound between junctions J46  and J45 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","m1 northbound jct 45 and jct 47 entry slip road closed m1 southbound jct 47 and jct 45 exit slip road closed diversion on national highway  and local authority  network ","LOW",false,false,"M1",1652986895249,true,53.77561,-1.4532915,"ROADWORKS",,,,1653022800000,1652986800000,,,1652986800000,1653022800000,false,"RW-22-05-12-401393",false,,false,"260526",116024101,116023801,,,"Location : The M1 southbound between junctions J46  and J45 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 southbound between junctions J46  and J45 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"","J45","J46",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"116023801",,,,,,,,,"Hard Shoulder","NORMAL","Lane 1","CLOSED","Lane 2","NORMAL","Lane 3","NORMAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3794629",,"","Location : The M1 northbound between junctions J45  and J46 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","m1 northbound jct 45 and jct 47 entry slip road closed m1 southbound jct 47 and jct 45 exit slip road closed diversion on national highway  and local authority  network ","LOW",false,false,"M1",1652986894489,true,53.776234,-1.4704895,"ROADWORKS",,,,1653022800000,1652986800000,,,1652986800000,1653022800000,false,"RW-22-05-12-401394",false,,false,"260526",116023902,116023701,,,"Location : The M1 northbound between junctions J45  and J46 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J45  and J46 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"","J46","J45",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"116023902",,,,,,,,,"Hard Shoulder","NORMAL","Lane 1","CLOSED","Lane 2","NORMAL","Lane 3","NORMAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3794628",,"","Location : The M1 southbound between junctions J46  and J45 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","m1 northbound jct 45 and jct 47 entry slip road closed m1 southbound jct 47 and jct 45 exit slip road closed diversion on national highway  and local authority  network ","LOW",false,false,"M1",1652986895249,true,53.77561,-1.4532915,"ROADWORKS",,,,1653022800000,1652986800000,,,1652986800000,1653022800000,false,"RW-22-05-12-401393",false,,false,"260526",116024101,116023801,,,"Location : The M1 southbound between junctions J46  and J45 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 southbound between junctions J46  and J45 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"","J45","J46",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"116024101",,,,,,,,,"Hard Shoulder","NORMAL","Lane 1","CLOSED","Lane 2","NORMAL","Lane 3","NORMAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3756085",,"Location : The M1 southbound between junctions J36  and J35 
+Reason : Roadworks are planned
+Status : Pending
+Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022
+Schedule : Expect disruption everyday between 20:00 and 06:00 from 23 May 2022 to 28 May 2022
+","Location : The M1 southbound between junctions J36  and J35 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 southbound Jct 36 to Jct 35a
+Slip road and lane closures for carriageway improvements.
+Diversion route in place via National Highways network.","LOW",false,false,"M1",1652988234724,true,53.47424,-1.4577733,"ROADWORKS",,,,1653714000000,1652986800000,,,1651258800000,1651294800000,false,"RW-22-04-12-201301",false,,false,"251930",116024901,116025002,,,"Location : The M1 southbound between junctions J36  and J35 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 southbound between junctions J36  and J35 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 southbound between junctions J36  and J35 ","J35","J35A","3756083",,"","Location : The M1 southbound between junctions J36  and J35 
+Name : M1 southbound between J35A and J35 : M1 southbound within J35 : AREA SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 20:02 on 29 April 2022 to 06:00 on 28 May 2022
+","","HIGHEST",false,false,"M1",1652162499730,true,53.47424,-1.4577733,"ROADWORKS",,,,1653714000000,1651258800000,,,1651258800000,1653714000000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,false,"RW-22-04-12-201299",false,,,,,,,,,,false,"251930",116024901,,"Location : The M1 southbound between junctions J36  and J35 ","Name : M1 southbound between J35A and J35 : M1 southbound within J35 : AREA SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Location : The M1 southbound between junctions J36  and J35 ","Name : M1 southbound between J35A and J35 : M1 southbound within J35 : AREA SCHEMES","Reason : Roadworks scheme","Status : Currently Active","",,,,,,"J35","J35A","116024901",,,1651604400000,1651640400000,,,1651690800000,1651726800000,"Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","CLOSED","Lane 4","NORMAL","Reason : Roadworks are planned","Status : Pending","Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022","Schedule : Expect disruption everyday between 20:00 and 06:00 from 23 May 2022 to 28 May 2022",,,,,1651777200000,1651813200000,,,1651863600000,1651899600000,,,1652900400000,1652936400000,,,1652986800000,1653022800000,,,1653073200000,1653109200000,,,1653332400000,1653368400000,"Period : from 20:02 on 29 April 2022 to 06:00 on 28 May 2022","Period : from 20:02 on 29 April 2022 to 06:00 on 28 May 2022",116025002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1653418800000,1653454800000,,,1653505200000,1653541200000,,,1653591600000,1653627600000,,,1653678000000,1653714000000
+"3756085",,"Location : The M1 southbound between junctions J36  and J35 
+Reason : Roadworks are planned
+Status : Pending
+Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022
+Schedule : Expect disruption everyday between 20:00 and 06:00 from 23 May 2022 to 28 May 2022
+","Location : The M1 southbound between junctions J36  and J35 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 southbound Jct 36 to Jct 35a
+Slip road and lane closures for carriageway improvements.
+Diversion route in place via National Highways network.","LOW",false,false,"M1",1652988234724,true,53.47424,-1.4577733,"ROADWORKS",,,,1653714000000,1652986800000,,,1651258800000,1651294800000,false,"RW-22-04-12-201301",false,,false,"251930",116024901,116025002,,,"Location : The M1 southbound between junctions J36  and J35 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 southbound between junctions J36  and J35 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 southbound between junctions J36  and J35 ","J35","J35A","3756083",,"","Location : The M1 southbound between junctions J36  and J35 
+Name : M1 southbound between J35A and J35 : M1 southbound within J35 : AREA SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 20:02 on 29 April 2022 to 06:00 on 28 May 2022
+","","HIGHEST",false,false,"M1",1652162499730,true,53.47424,-1.4577733,"ROADWORKS",,,,1653714000000,1651258800000,,,1651258800000,1653714000000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,false,"RW-22-04-12-201299",false,,,,,,,,,,false,"251930",116024901,,"Location : The M1 southbound between junctions J36  and J35 ","Name : M1 southbound between J35A and J35 : M1 southbound within J35 : AREA SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Location : The M1 southbound between junctions J36  and J35 ","Name : M1 southbound between J35A and J35 : M1 southbound within J35 : AREA SCHEMES","Reason : Roadworks scheme","Status : Currently Active","",,,,,,"J35","J35A","116025002",,,1651604400000,1651640400000,,,1651690800000,1651726800000,"Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","CLOSED","Lane 4","NORMAL","Reason : Roadworks are planned","Status : Pending","Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022","Schedule : Expect disruption everyday between 20:00 and 06:00 from 23 May 2022 to 28 May 2022",,,,,1651777200000,1651813200000,,,1651863600000,1651899600000,,,1652900400000,1652936400000,,,1652986800000,1653022800000,,,1653073200000,1653109200000,,,1653332400000,1653368400000,"Period : from 20:02 on 29 April 2022 to 06:00 on 28 May 2022","Period : from 20:02 on 29 April 2022 to 06:00 on 28 May 2022",116025002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1653418800000,1653454800000,,,1653505200000,1653541200000,,,1653591600000,1653627600000,,,1653678000000,1653714000000
+"3778035",,"Location : The M1 northbound between junctions J34  and J35 
+Reason : Roadworks are planned
+Status : Pending
+Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022
+Schedule : From 20:00 on 23 May 2022 to 06:00 on 24 May 2022
+","Location : The M1 northbound between junctions J34  and J35 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound Jct 35.
+Slip road and lane closures for carriageway improvements works.
+Diversion route in place via National Highways and Local Highway Authority network.","HIGHEST",false,false,"M1",1652987062821,true,53.427086,-1.4164016,"ROADWORKS",,,,1653368400000,1652986800000,,,1651258800000,1651294800000,false,"RW-22-04-29-500822",false,,false,"230120",116025202,116025801,,,"Location : The M1 northbound between junctions J34  and J35 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J34  and J35 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J34  and J35 ","J35","J34",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"116025202",,,1652814000000,1652850000000,,,1652900400000,1652936400000,"Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","CLOSED","Lane 4","NORMAL","Reason : Roadworks are planned","Status : Pending","Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022","Schedule : From 20:00 on 23 May 2022 to 06:00 on 24 May 2022",,,,,1652986800000,1653022800000,,,1653073200000,1653109200000,,,1653332400000,1653368400000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3785844",,"","Location : The M1 northbound between junctions J35A  and J36 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound Jct 36.
+Carriageway and lane closures for carriageway improvement works.
+Diversion route in place via National Highways roads.","LOW",false,false,"M1",1652988192428,true,53.48774,-1.4687024,"ROADWORKS",,,,1653022800000,1652727600000,,,1652468400000,1652504400000,false,"RW-22-05-05-401457",false,,false,"261277",116019202,116025401,,,"Location : The M1 northbound between junctions J35A  and J36 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J35A  and J36 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"","J36","J35A",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"116025401",,,1652554800000,1652590800000,,,1652641200000,1652677200000,"Hard Shoulder","NORMAL","Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","NORMAL",,,,,,,,,1652727600000,1652763600000,,,1652814000000,1652850000000,,,1652900400000,1652936400000,,,1652986800000,1653022800000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3792937",,"","Location : The M1 northbound at junction J34 
+Reason : Roadside Equipment Maintenance
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound and southbound Jct 32 to Jct 34
+Lane closures for technology works.","HIGHEST",false,false,"M1",1652987128868,true,53.40938,-1.3971524,"ROADWORKS",,,,1653022800000,1652986800000,,,1652900400000,1652936400000,false,"RW-22-05-11-301234",false,,true,"216239",116025702,,,,"Location : The M1 northbound at junction J34 ","Reason : Roadside Equipment Maintenance","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound at junction J34 ","Reason : Roadside Equipment Maintenance","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"","J34","J33",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"116025702",,,1652986800000,1653022800000,,,,,"Hard Shoulder","NORMAL","Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","CLOSED",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3778035",,"Location : The M1 northbound between junctions J34  and J35 
+Reason : Roadworks are planned
+Status : Pending
+Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022
+Schedule : From 20:00 on 23 May 2022 to 06:00 on 24 May 2022
+","Location : The M1 northbound between junctions J34  and J35 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound Jct 35.
+Slip road and lane closures for carriageway improvements works.
+Diversion route in place via National Highways and Local Highway Authority network.","HIGHEST",false,false,"M1",1652987062821,true,53.427086,-1.4164016,"ROADWORKS",,,,1653368400000,1652986800000,,,1651258800000,1651294800000,false,"RW-22-04-29-500822",false,,false,"230120",116025202,116025801,,,"Location : The M1 northbound between junctions J34  and J35 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J34  and J35 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J34  and J35 ","J35","J34",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"116025801",,,1652814000000,1652850000000,,,1652900400000,1652936400000,"Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","CLOSED","Lane 4","NORMAL","Reason : Roadworks are planned","Status : Pending","Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022","Schedule : From 20:00 on 23 May 2022 to 06:00 on 24 May 2022",,,,,1652986800000,1653022800000,,,1653073200000,1653109200000,,,1653332400000,1653368400000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3792941",,"","Location : The M1 northbound between junctions J32  and J33 
+Reason : Roadside Equipment Maintenance
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound and southbound Jct 32 to Jct 34
+Lane closures for technology works.","LOW",false,false,"M1",1652989122204,true,53.398655,-1.3226608,"ROADWORKS",,,,1653022800000,1652986800000,,,1652900400000,1652936400000,false,"RW-22-05-11-301238",false,,false,"216239",116026101,,,,"Location : The M1 northbound between junctions J32  and J33 ","Reason : Roadside Equipment Maintenance","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J32  and J33 ","Reason : Roadside Equipment Maintenance","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"","J33","J32",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"116026101",,,1652986800000,1653022800000,,,,,"Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","CLOSED","Lane 4","NORMAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3792940",,"","Location : The M1 northbound at junction J33 
+Reason : Roadside Equipment Maintenance
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound and southbound Jct 32 to Jct 34
+Lane closures for technology works.","HIGHEST",false,false,"M1",1652987127483,true,53.39865,-1.3435377,"ROADWORKS",,,,1653022800000,1652986800000,,,1652900400000,1652936400000,false,"RW-22-05-11-301237",false,,true,"216239",116026302,,,,"Location : The M1 northbound at junction J33 ","Reason : Roadside Equipment Maintenance","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound at junction J33 ","Reason : Roadside Equipment Maintenance","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"","J33","J32",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"116026302",,,1652986800000,1653022800000,,,,,"Hard Shoulder","NORMAL","Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","CLOSED",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3792936",,"","Location : The M1 southbound at junction J34 
+Reason : Roadside Equipment Maintenance
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound and southbound Jct 32 to Jct 34
+Lane closures for technology works.","LOW",false,false,"M1",1652987129667,true,53.415234,-1.4038749,"ROADWORKS",,,,1653022800000,1652986800000,,,1652900400000,1652936400000,false,"RW-22-05-11-301233",false,,false,"216239",116026602,,,,"Location : The M1 southbound at junction J34 ","Reason : Roadside Equipment Maintenance","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 southbound at junction J34 ","Reason : Roadside Equipment Maintenance","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"","J34","J35",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"116026602",,,1652986800000,1653022800000,,,,,"Hard Shoulder","CLOSED","Lane 1","NORMAL","Lane 2","NORMAL","Lane 3","NORMAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3792942",,"","Location : The M1 southbound between junctions J34  and J33 
+Reason : Roadside Equipment Maintenance
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound and southbound Jct 32 to Jct 34
+Lane closures for technology works.","LOW",false,false,"M1",1652987126513,true,53.406002,-1.3921813,"ROADWORKS",,,,1653022800000,1652986800000,,,1652900400000,1652936400000,false,"RW-22-05-11-301239",false,,false,"216239",116026801,,,,"Location : The M1 southbound between junctions J34  and J33 ","Reason : Roadside Equipment Maintenance","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 southbound between junctions J34  and J33 ","Reason : Roadside Equipment Maintenance","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"","J33","J34",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"116026801",,,1652986800000,1653022800000,,,,,"Lane 1","CLOSED","Lane 2","NORMAL","Lane 3","NORMAL","Lane 4","NORMAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3619377",,"","Location : The M1 northbound between junctions J13  and J15 
+Name : M1 northbound within J13 : M1 northbound between J14 and J15 : MAJOR SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 06:00 on 7 May 2022 to 22:00 on 6 June 2022
+","","HIGHEST",false,false,"M1",1652970528626,true,52.02652,-0.6038495,"ROADWORKS",,,,1654549200000,1651899600000,,,1651899600000,1654549200000,false,"RW-21-12-27-100543",false,,false,"248182",108020101,123017701,108020301,,"Location : The M1 northbound between junctions J13  and J15 ","Name : M1 northbound within J13 : M1 northbound between J14 and J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 06:00 on 7 May 2022 to 22:00 on 6 June 2022","Location : The M1 northbound between junctions J13  and J15 ","Name : M1 northbound within J13 : M1 northbound between J14 and J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 06:00 on 7 May 2022 to 22:00 on 6 June 2022","","J14","J13","3619354",,"","Location : The M1 northbound between junctions J14  and J15 
+Name : M1 J14 northbound access : M1 northbound between J14 and J15 : MAJOR SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 00:00 on 6 May 2022 to 22:00 on 6 June 2022
+","","HIGH",false,false,"M1",1652430746094,true,52.05836,-0.7007035,"ROADWORKS",,,,1654549200000,1652418000000,,,1652418000000,1654549200000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,false,"RW-21-12-27-100520",false,,,,,,,,,,false,"248241",123017801,,"Location : The M1 northbound between junctions J14  and J15 ","Name : M1 J14 northbound access : M1 northbound between J14 and J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Location : The M1 northbound between junctions J14  and J15 ","Name : M1 J14 northbound access : M1 northbound between J14 and J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","",,,,,,"J15","J14","123017701",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Period : from 00:00 on 6 May 2022 to 22:00 on 6 June 2022","Period : from 00:00 on 6 May 2022 to 22:00 on 6 June 2022",123017701,108019502,108020002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108020001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3619354",,"","Location : The M1 northbound between junctions J14  and J15 
+Name : M1 J14 northbound access : M1 northbound between J14 and J15 : MAJOR SCHEMES
+Reason : Roadworks scheme
+Status : Currently Active
+Period : from 00:00 on 6 May 2022 to 22:00 on 6 June 2022
+","","HIGH",false,false,"M1",1652430746094,true,52.05836,-0.7007035,"ROADWORKS",,,,1654549200000,1652418000000,,,1652418000000,1654549200000,false,"RW-21-12-27-100520",false,,false,"248241",123017801,123017701,108019502,,"Location : The M1 northbound between junctions J14  and J15 ","Name : M1 J14 northbound access : M1 northbound between J14 and J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 00:00 on 6 May 2022 to 22:00 on 6 June 2022","Location : The M1 northbound between junctions J14  and J15 ","Name : M1 J14 northbound access : M1 northbound between J14 and J15 : MAJOR SCHEMES","Reason : Roadworks scheme","Status : Currently Active","Period : from 00:00 on 6 May 2022 to 22:00 on 6 June 2022","","J15","J14",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"123017801",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108020002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3791660",,"","Location : The M1 northbound between junctions J8  and J10 
+Reason : Road repairs
+Status : Currently Active
+Period : expect disruption until 05:00 on 20 May 2022
+","M1 Northbound
+Jct 8 to Jct 10
+Carriageway Closure for Carriageway - Reconstruction/Renewal on behalf of Ringway","LOW",false,false,"M1",1652994067204,true,51.810562,-0.41557604,"ROADWORKS",,,,1653019200000,1652994000000,,,1652821200000,1652846400000,false,"RW-22-05-10-201272",false,,false,"268868",108022501,108021702,200047566,,"Location : The M1 northbound between junctions J8  and J10 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 05:00 on 20 May 2022",,"Location : The M1 northbound between junctions J8  and J10 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 05:00 on 20 May 2022",,"","J10","J9",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"126018401",,,1652907600000,1652932800000,,,1652994000000,1653019200000,"Hard Shoulder","CLOSED","Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","NORMAL",,,,,"Lane 4","NORMAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108022602,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126018401,,,,,,,,,,,,,,,,
+"3793890",,"Location : The M1 northbound between junctions J24  and J25 
+Reason : Roadworks are planned
+Status : Pending
+Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022
+","Location : The M1 northbound between junctions J24  and J25 
+Reason : Roadworks
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound and southbound Jct 23 to Jct 25.
+Slip road and lane closure for construction works.
+Diversion via national Highways network.","LOW",false,false,"M1",1652992223936,true,52.84325,-1.2957516,"ROADWORKS",,,,1653109200000,1652986800000,,,1652468400000,1652504400000,false,"RW-22-05-12-400652",false,,false,"245984",199017201,107026901,107031202,,"Location : The M1 northbound between junctions J24  and J25 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J24  and J25 ","Reason : Roadworks","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J24  and J25 ","J24","J23A",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"199017201",,,1652986800000,1653022800000,,,1653073200000,1653109200000,"Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","CLOSED","Lane 4","NORMAL","Reason : Roadworks are planned","Status : Pending","Schedule : Expect disruption everyday between 20:00 and 06:00 from 19 May 2022 to 21 May 2022",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3791660",,"","Location : The M1 northbound between junctions J8  and J10 
+Reason : Road repairs
+Status : Currently Active
+Period : expect disruption until 05:00 on 20 May 2022
+","M1 Northbound
+Jct 8 to Jct 10
+Carriageway Closure for Carriageway - Reconstruction/Renewal on behalf of Ringway","LOW",false,false,"M1",1652994067204,true,51.810562,-0.41557604,"ROADWORKS",,,,1653019200000,1652994000000,,,1652821200000,1652846400000,false,"RW-22-05-10-201272",false,,false,"268868",108022501,108021702,200047566,,"Location : The M1 northbound between junctions J8  and J10 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 05:00 on 20 May 2022",,"Location : The M1 northbound between junctions J8  and J10 ","Reason : Road repairs","Status : Currently Active","Period : expect disruption until 05:00 on 20 May 2022",,"","J10","J9",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"200047566",,,1652907600000,1652932800000,,,1652994000000,1653019200000,"Hard Shoulder","CLOSED","Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","NORMAL",,,,,"Lane 4","NORMAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108022602,,,,,,,,,,,,,,,,,,,,,,,,,,,,,126018401,,,,,,,,,,,,,,,,
+"3794765",,"","Location : The M1 northbound between junctions J12  and J13 
+Reason : Roadside Equipment Maintenance
+Status : Currently Active
+Period : expect disruption until 05:00 on 20 May 2022
+","M1 Northbound 
+Jct 11A to Jct 12 - Lane Closure for Communications on behalf of Ringway","LOW",false,false,"M1",1652994103270,true,51.964233,-0.5228637,"ROADWORKS",,,,1653019200000,1652994000000,,,1652994000000,1653019200000,false,"RW-22-05-12-401530",false,,false,"269260",200113967,,,,"Location : The M1 northbound between junctions J12  and J13 ","Reason : Roadside Equipment Maintenance","Status : Currently Active","Period : expect disruption until 05:00 on 20 May 2022",,"Location : The M1 northbound between junctions J12  and J13 ","Reason : Roadside Equipment Maintenance","Status : Currently Active","Period : expect disruption until 05:00 on 20 May 2022",,"","J13","J12",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"200113967",,,,,,,,,"Hard Shoulder","CLOSED","Lane 1","NORMAL","Lane 2","NORMAL","Lane 3","NORMAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3794766",,"","Location : The M1 northbound between junctions J11A  and J12 
+Reason : Roadside Equipment Maintenance
+Status : Currently Active
+Period : expect disruption until 05:00 on 20 May 2022
+","M1 Northbound 
+Jct 11A to Jct 12 - Lane Closure for Communications on behalf of Ringway","LOW",false,false,"M1",1652994102942,true,51.93897,-0.4977894,"ROADWORKS",,,,1653019200000,1652994000000,,,1652994000000,1653019200000,false,"RW-22-05-12-401531",false,,false,"269260",200124667,,,,"Location : The M1 northbound between junctions J11A  and J12 ","Reason : Roadside Equipment Maintenance","Status : Currently Active","Period : expect disruption until 05:00 on 20 May 2022",,"Location : The M1 northbound between junctions J11A  and J12 ","Reason : Roadside Equipment Maintenance","Status : Currently Active","Period : expect disruption until 05:00 on 20 May 2022",,"","J12","J11A",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"200124667",,,,,,,,,"Hard Shoulder","CLOSED","Lane 1","NORMAL","Lane 2","NORMAL","Lane 3","NORMAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3792939",,"","Location : The M1 northbound between junctions J33  and J34 
+Reason : Roadside Equipment Maintenance
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound and southbound Jct 32 to Jct 34
+Lane closures for technology works.","HIGHEST",false,false,"M1",1652987127920,true,53.396744,-1.3582835,"ROADWORKS",,,,1653022800000,1652986800000,,,1652900400000,1652936400000,false,"RW-22-05-11-301236",false,,false,"216239",200126433,,,,"Location : The M1 northbound between junctions J33  and J34 ","Reason : Roadside Equipment Maintenance","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J33  and J34 ","Reason : Roadside Equipment Maintenance","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"","J34","J33",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"200126433",,,1652986800000,1653022800000,,,,,"Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","CLOSED","Lane 4","NORMAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"3792938",,"","Location : The M1 northbound between junctions J33  and J34 
+Reason : Roadside Equipment Maintenance
+Status : Currently Active
+Period : expect disruption until 06:00 on 20 May 2022
+","M1 northbound and southbound Jct 32 to Jct 34
+Lane closures for technology works.","HIGHEST",false,false,"M1",1652987128372,true,53.40467,-1.3900441,"ROADWORKS",,,,1653022800000,1652986800000,,,1652900400000,1652936400000,false,"RW-22-05-11-301235",false,,false,"216239",200126434,,,,"Location : The M1 northbound between junctions J33  and J34 ","Reason : Roadside Equipment Maintenance","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"Location : The M1 northbound between junctions J33  and J34 ","Reason : Roadside Equipment Maintenance","Status : Currently Active","Period : expect disruption until 06:00 on 20 May 2022",,"","J34","J33",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"200126434",,,1652986800000,1653022800000,,,,,"Lane 1","CLOSED","Lane 2","CLOSED","Lane 3","CLOSED","Lane 4","NORMAL",,,,,"Lane 5","NORMAL",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
